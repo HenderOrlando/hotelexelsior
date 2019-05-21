@@ -1,2 +1,1 @@
-[15-Apr-2016 23:34:13 America/Bogota] PHP Warning:  mail(/var/log/php_maillog): failed to open stream: Permission denied in /home/solucio4/public_html/HOTELEXELSIOR.COM/sendEmail.php on line 59
-[15-Apr-2016 23:34:13 America/Bogota] PHP Warning:  mail(/var/log/php_maillog): failed to open stream: Permission denied in /home/solucio4/public_html/HOTELEXELSIOR.COM/sendEmail.php on line 59
+[31-Oct-2018 21:24:11 UTC] PHP Warning:  mail(): Could not execute mail delivery program '/usr/sbin/sendmail -t -i' in /home/camil798/public_html/hotelexelsior.com/sendEmail.php on line 59
